@@ -3,7 +3,7 @@ name: "🐞 Bug Report"
 about: "Report something that isn't working correctly"
 title: "[BUG] "
 labels: ["bug"]
-assignees: ""
+assignees: "@ItsJackson"
 ---
 
 ## 🐛 Describe the Bug
