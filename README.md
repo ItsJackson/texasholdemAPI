@@ -85,7 +85,7 @@ You are welcome to open:
 - Issues
 - Feature suggestions
 - Discussions
-
+See templates in [ISSUES_TEMPLATE](https://github.com/ItsJackson/texasholdemAPI/tree/main/.github/ISSUES_TEMPLATE)
 ---
 
 # License
