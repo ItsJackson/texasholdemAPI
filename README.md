@@ -6,7 +6,7 @@ This package is designed as a game state engine for building poker systems such 
 ---
 
 ## Status: Work In Progress 
--# Last updated: 11/26/2025 next update -> 12/18/2025
+Last updated: 11/26/2025 next update -> 12/18/2025
 This project is in beginning phases, which focuses primarily on:
 - Creating core game necessities
 - Defining structures
